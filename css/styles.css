@@ -1,4 +1,9 @@
 body {
+  background: #eee;
+  padding-top: 20px;
+}
+
+/*body {
   text-align: center;
   font-family: courier;
   background-image: url("../assets/image.jpeg");
@@ -21,10 +26,6 @@ body {
   height: 1.5em;
 }
 
-body {
-  background : #eee;
-  padding-top : 20px;
-}
 
 #switch , #switch1 {
   position: absolute;
