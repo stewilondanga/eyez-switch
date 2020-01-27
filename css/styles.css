@@ -137,13 +137,13 @@ span:after {
   left: 68px;
 }
 
-/*#switch1:checked + .switch span:before {
-  transition : 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275) all;
-  border-top-width : 4px;
-  height : 34px;
+#switch1:checked+.switch span:before {
+  transition: 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275) all;
+  border-top-width: 4px;
+  height: 34px;
 }
 
-#switch1:checked + .switch span:after{
+/*#switch1:checked + .switch span:after{
   transition : 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275) all;
   top  : 0;
   left : 0;
