@@ -110,12 +110,12 @@ span:after {
   border-radius: 50%;
 }
 
-/*.switch1 span:after {
-  top : 10px;
-  left : -20px;
+.switch1 span:after {
+  top: 10px;
+  left: -20px;
 }
 
-#switch:checked + .switch span {
+/*#switch:checked + .switch span {
   transition : 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275) left;
   left  : 0px;
 }
