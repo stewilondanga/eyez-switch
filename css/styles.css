@@ -44,12 +44,12 @@ body {
   z-index: 0;
 }
 
-/*.switch:before {
-  left : 15px;
-  content : '✔';
+.switch:before {
+  left: 15px;
+  content: '✔';
 }
 
-.switch:after {
+/*.switch:after {
   right : 15px;
   content : '✖';
 }
