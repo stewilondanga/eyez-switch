@@ -92,12 +92,12 @@ span:before {
   border-bottom: 3px solid #ffcc00;
 }
 
-/*.switch1 span:before {
-  border-top-width : 20px;
-  height : 19px;
+.switch1 span:before {
+  border-top-width: 20px;
+  height: 19px;
 }
 
-span:after {
+/*span:after {
   width  : 3px;
   height : 3px;
   top : 0;
