@@ -81,18 +81,18 @@ span:after, span:before {
   transition: 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275) all;
 }
 
-/*span:before {
-  width  : 100%;
-  height : 34px;
-  top  : 0;
-  left : 0;
+span:before {
+  width: 100%;
+  height: 34px;
+  top: 0;
+  left: 0;
   background-color: #fff;
-  border-radius : inherit;
-  border-top    : 4px solid #ffcc00;
-  border-bottom : 3px solid #ffcc00;
+  border-radius: inherit;
+  border-top: 4px solid #ffcc00;
+  border-bottom: 3px solid #ffcc00;
 }
 
-.switch1 span:before {
+/*.switch1 span:before {
   border-top-width : 20px;
   height : 19px;
 }
