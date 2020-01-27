@@ -73,15 +73,15 @@ span {
   left: 0px;
 }
 
-/*span:after , span:before {
-  display : block;
-  content : ' ';
+span:after, span:before {
+  display: block;
+  content: ' ';
   position: absolute;
-  z-index : 999;
-  transition : 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275) all;
+  z-index: 999;
+  transition: 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275) all;
 }
 
-span:before {
+/*span:before {
   width  : 100%;
   height : 34px;
   top  : 0;
