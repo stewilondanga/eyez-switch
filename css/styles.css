@@ -23,19 +23,19 @@ body {
   left: -9999px;
 }
 
-/*.switch {
-  display : block;
+.switch {
+  display: block;
   position: relative;
-  width   : 120px;
-  padding : 3px;
-  margin  : 20px auto;
-  cursor  : pointer;
-  border-radius : 33px;
-  background    : #ffcc00;
-  box-shadow    :  0 1px 1px 0 rgba(0,0,0,.3);
+  width: 120px;
+  padding: 3px;
+  margin: 20px auto;
+  cursor: pointer;
+  border-radius: 33px;
+  background: #ffcc00;
+  box-shadow: 0 1px 1px 0 rgba(0, 0, 0, .3);
 }
 
-.switch:before , .switch:after {
+/*.switch:before , .switch:after {
   display : block;
   color   : #fff;
   position : absolute;
