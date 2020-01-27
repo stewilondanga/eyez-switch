@@ -69,11 +69,11 @@ span {
   left: 68px;
 }
 
-/*.switch1 span {
-  left : 0px;
+.switch1 span {
+  left: 0px;
 }
 
-span:after , span:before {
+/*span:after , span:before {
   display : block;
   content : ' ';
   position: absolute;
