@@ -49,12 +49,12 @@ body {
   content: '✔';
 }
 
-/*.switch:after {
-  right : 15px;
-  content : '✖';
+.switch:after {
+  right: 15px;
+  content: '✖';
 }
 
-span {
+/*span {
   display : block;
   width   : 39px;
   height  : 41px;
