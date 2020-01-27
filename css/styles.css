@@ -120,13 +120,13 @@ span:after {
   left: 0px;
 }
 
-/*#switch:checked + .switch span:before {
-  transition : 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275) all;
-  border-top-width : 20px;
-  height : 19px;
+#switch:checked+.switch span:before {
+  transition: 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275) all;
+  border-top-width: 20px;
+  height: 19px;
 }
 
-#switch:checked + .switch span:after{
+/*#switch:checked + .switch span:after{
   transition : 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275) all;
   top : 10px;
   left : -20px;
