@@ -35,16 +35,16 @@ body {
   box-shadow: 0 1px 1px 0 rgba(0, 0, 0, .3);
 }
 
-/*.switch:before , .switch:after {
-  display : block;
-  color   : #fff;
-  position : absolute;
-  font-size : 30px;
-  top : 15px;
-  z-index : 0;
+.switch:before, .switch:after {
+  display: block;
+  color: #fff;
+  position: absolute;
+  font-size: 30px;
+  top: 15px;
+  z-index: 0;
 }
 
-.switch:before {
+/*.switch:before {
   left : 15px;
   content : '✔';
 }
