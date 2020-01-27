@@ -143,13 +143,13 @@ span:after {
   height: 34px;
 }
 
-/*#switch1:checked + .switch span:after{
-  transition : 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275) all;
-  top  : 0;
-  left : 0;
+#switch1:checked+.switch span:after {
+  transition: 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275) all;
+  top: 0;
+  left: 0;
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
